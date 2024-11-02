@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# << CODE BY HUNX04
+# << CODE BY Sharir Sakib
 # << MAU RECODE ??? IZIN DULU LAH,  MINIMAL TAG AKUN GITHUB MIMIN YANG MENGARAH KE AKUN INI, LEBIH GAMPANG SI PAKE FORK
 # << KALAU DI ATAS TIDAK DI IKUTI MAKA AKAN MENDAPATKAN DOSA KARENA MIMIN GAK IKHLAS
 # “Wahai orang-orang yang beriman! Janganlah kamu saling memakan harta sesamamu dengan jalan yang batil,” (QS. An Nisaa': 29). Rasulullah SAW juga melarang umatnya untuk mengambil hak orang lain tanpa izin.
@@ -80,7 +80,7 @@ def IP_Track():
 @is_option
 def phoneGW():
     User_phone = input(
-        f"\n {Wh}Enter phone number target {Gr}Ex [+6281xxxxxxxxx] {Wh}: {Gr}")  # INPUT NUMBER PHONE
+        f"\n {Wh}Enter phone number target {Gr}Ex [+88xxxxxxxxx] {Wh}: {Gr}")  # INPUT NUMBER PHONE
     default_region = "ID"  # DEFAULT NEGARA INDONESIA
 
     parsed_number = phonenumbers.parse(User_phone, default_region)  # VARIABLE PHONENUMBERS
@@ -266,7 +266,7 @@ def option():
     / /_/ / / / / /_/ (__  ) /_/_____/ / / /  / /_/ / /__/ ,<   
     \____/_/ /_/\____/____/\__/     /_/ /_/   \__,_/\___/_/|_| 
 
-              {Wh}[ + ]  C O D E   B Y  H U N X  [ + ]
+              {Wh}[ + ]  C O D E   B Y  C Y B 3 R  [ + ]
     """)
 
     stderr.writelines(f"\n\n\n{option_text()}")
@@ -279,7 +279,7 @@ def run_banner():
          .-.
        .'   `.          {Wh}--------------------------------
        :g g   :         {Wh}| {Gr}GHOST - TRACKER - IP ADDRESS {Wh}|
-       : o    `.        {Wh}|       {Gr}@CODE BY HUNXBYTS      {Wh}|
+       : o    `.        {Wh}|       {Gr}@CODE BY SHARIAR SAKIB {Wh}|
       :         ``.     {Wh}--------------------------------
      :             `.
     :  :         .   `.
